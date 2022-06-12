@@ -6,6 +6,11 @@
 **Disclaimer **
 - Hackintoshing may be dangerous and can damage your device and I am not responsible for bricked devices, dead devices, thermonuclear war, or you getting fired because your system failed. Please do some research if you have any concerns about hackintoshing before you proceed. YOU are choosing to make these changes to your system, and if you point the finger at me for messing up your device, I will laugh at you.
 
+**MacOS versions **
+- Bigsur
+- Monterey
+- Ventura (not tested)
+
 **What's working? **
 
 - Dual Battery (DSDT/SSDT) 
