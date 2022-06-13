@@ -9,7 +9,6 @@
 **MacOS versions **
 - Bigsur
 - Monterey
-- Ventura (not tested)
 
 **What's working? **
 
