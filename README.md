@@ -48,4 +48,6 @@
 - Team Voodoo
 - and the entire community for inspiring me!
 
+I was into Hackintoshing since 14 years and its was always fun to try something like this! 
+
 --------------------------------------------------------------------------------------------- (Print : End)
