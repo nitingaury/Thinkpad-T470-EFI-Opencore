@@ -1,4 +1,5 @@
 # Thinkpad T470 (Opencore version 0.7.5)
+- Use Opencore Configurator version 2.52.0.1 to avoid errors!
  EFI folder for Opencore Thinkpad T470 Hackintosh, for educational purposes only!
  
 ![prod-rc-lenovo-thinkpad-t470_Big](https://user-images.githubusercontent.com/69560584/173252878-b85074c5-dff4-46bc-986a-e200deb44b8b.png) ---> 99% working!
@@ -46,5 +47,7 @@
 - Rehabman
 - Team Voodoo
 - and the entire community for inspiring me!
+
+I was into Hackintoshing since 14 years and its was always fun to try something like this! 
 
 --------------------------------------------------------------------------------------------- (Print : End)
