@@ -2,6 +2,10 @@
 - Use Opencore Configurators associated to above mentioned versions
  EFI folder for Opencore Thinkpad T470 Hackintosh, for educational purposes only!
  
+ ![Screenshot 2022-06-27 at 22 59 05](https://user-images.githubusercontent.com/69560584/176019544-e079d93f-f2db-4881-8b67-75cd78114ea6.png)
+![Screenshot 2022-06-14 at 5 00 00 AM](https://user-images.githubusercontent.com/69560584/176019662-387c68d7-aa76-432b-b654-4030dffcc359.png)
+![Screenshot 2022-06-13 at 1 47 10 AM](https://user-images.githubusercontent.com/69560584/176019745-6d6d80ca-a2dd-47ab-ac05-16fada6ca193.png)
+ 
 ![prod-rc-lenovo-thinkpad-t470_Big](https://user-images.githubusercontent.com/69560584/173252878-b85074c5-dff4-46bc-986a-e200deb44b8b.png) ---> 99% working!
 
 **Disclaimer **
