@@ -1,5 +1,5 @@
-# Thinkpad T470 (Opencore version 0.7.5)
-- Use Opencore Configurator version 2.52.0.1 to avoid errors!
+# Thinkpad T470 (Opencore version 0.7.5 and 0.8.2)
+- Use Opencore Configurators associated to above mentioned versions
  EFI folder for Opencore Thinkpad T470 Hackintosh, for educational purposes only!
  
 ![prod-rc-lenovo-thinkpad-t470_Big](https://user-images.githubusercontent.com/69560584/173252878-b85074c5-dff4-46bc-986a-e200deb44b8b.png) ---> 99% working!
@@ -10,6 +10,7 @@
 **MacOS versions **
 - Bigsur
 - Monterey
+- Ventura
 
 **What's working? **
 
