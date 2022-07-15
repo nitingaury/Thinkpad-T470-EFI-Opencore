@@ -8,7 +8,7 @@
  ![LENOVO](https://user-images.githubusercontent.com/69560584/178757109-023c8bb1-0554-4bd1-a4a8-c6bec45356c6.png) -> Thanks to Btwise for Lenovo picker variant. (Added to Ventura EFI)
  ![Screenshot 2022-07-13 at 8 02 11 PM](https://user-images.githubusercontent.com/69560584/178759666-2fd91829-58a8-43a6-a466-83fc5f3ee9fe.png)
 Metal Graphics 3 Fully Supported! 
-![Screenshot 2022-07-16 at 1 59 02 AM](https://user-images.githubusercontent.com/69560584/179306192-4346aa30-14c5-42a5-82e9-9319e5fd115d.png)
+![Screenshot 2022-07-16 at 1 59 02 AM](https://user-images.githubusercontent.com/69560584/179306436-1b83d3c1-447e-448e-8f88-8a602a479beb.png)
 
 
 ![prod-rc-lenovo-thinkpad-t470_Big](https://user-images.githubusercontent.com/69560584/173252878-b85074c5-dff4-46bc-986a-e200deb44b8b.png) ---> 99% working!
