@@ -1,6 +1,6 @@
 # Thinkpad T470 (Opencore version 0.7.5 and 0.8.3) - Ventura Beta 3 is Rock Stable! 
 - Use Opencore Configurators associated to above mentioned versions
-- EFI folder for Opencore Thinkpad T470 Hackintosh, for educational purposes only!
+- EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
  
  ![Screenshot 2022-06-27 at 22 59 05](https://user-images.githubusercontent.com/69560584/176019544-e079d93f-f2db-4881-8b67-75cd78114ea6.png)
 ![Screenshot 2022-06-14 at 5 00 00 AM](https://user-images.githubusercontent.com/69560584/176019662-387c68d7-aa76-432b-b654-4030dffcc359.png)
