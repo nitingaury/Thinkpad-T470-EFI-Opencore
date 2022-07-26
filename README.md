@@ -1,11 +1,11 @@
 # Thinkpad T470 (Opencore version 0.7.5 and 0.8.3) - Ventura Beta 3 is Rock Stable! 
 - Use Opencore Configurators associated to above mentioned versions
 - EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
- 
+
+ ![26183418](https://user-images.githubusercontent.com/69560584/181090042-051f9bf0-6707-4c8f-a018-358f4492cdda.png) - Merge the resources folder for theme!
  ![Screenshot 2022-06-27 at 22 59 05](https://user-images.githubusercontent.com/69560584/176019544-e079d93f-f2db-4881-8b67-75cd78114ea6.png)
 ![Screenshot 2022-06-14 at 5 00 00 AM](https://user-images.githubusercontent.com/69560584/176019662-387c68d7-aa76-432b-b654-4030dffcc359.png)
 ![Screenshot 2022-06-13 at 1 47 10 AM](https://user-images.githubusercontent.com/69560584/176019745-6d6d80ca-a2dd-47ab-ac05-16fada6ca193.png)
- ![LENOVO](https://user-images.githubusercontent.com/69560584/178757109-023c8bb1-0554-4bd1-a4a8-c6bec45356c6.png) -> Thanks to Btwise for Lenovo picker variant. (Added to Ventura EFI)
  ![Screenshot 2022-07-13 at 8 02 11 PM](https://user-images.githubusercontent.com/69560584/178759666-2fd91829-58a8-43a6-a466-83fc5f3ee9fe.png)
 Metal Graphics 3 Fully Supported! 
 ![Screenshot 2022-07-16 at 1 59 02 AM](https://user-images.githubusercontent.com/69560584/179306436-1b83d3c1-447e-448e-8f88-8a602a479beb.png)
