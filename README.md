@@ -42,7 +42,7 @@ Metal Graphics 3 Fully Supported!
 - USB C data transfer
 - Thunderbolt and 
 - Fingerprint reader
-- Airport (Still using Intel wifi, please let me know if anyone could help me with a BCM94360ng M.2 wifi chip)
+- Airdrop (Still using Intel wifi, please let me know if anyone could help me with a BCM94360ng M.2 wifi chip)
 
 **Battery and power management performance and more perks! **
 - Generate CPU Data provider kext and CPU-data-friend.aml by using https://github.com/corpnewt/CPUFriendFriend , Please note you need to generate these everytime you update the OS to next version, use the lowest frequency by "08" for 800 MHz.
