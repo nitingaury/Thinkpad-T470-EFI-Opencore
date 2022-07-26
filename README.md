@@ -49,6 +49,7 @@ Metal Graphics 3 Fully Supported!
 - Battery works efficiently and gives a 4.5 hr approx, CPU friend data provider kext performing fine with base frequency as 800 MHz having said average of 1.6 GHz and the peak is 3.5 GHz. 
 - Temperature management is decent and backup depends on how you use and on what task the system is running
 - Sleep works fine with approx 2%-4% for 6 Hrs loss (Which is neglegible)
+- Enable HiDpi by using this beautiful tool at "https://github.com/xzhih/one-key-hidpi", Set 2048x1152x32 [16:9] as best screen resolution using RDM(Retina Display Menu) from here -> "https://github.com/avibrazil/RDM".
 
 **My sincere thanks to **
 - Rehabman -> Kexts
