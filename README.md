@@ -57,6 +57,7 @@ Metal Graphics 3 Fully Supported!
 - Proper Tree -> Workarounds and EFI editing
 - Hackintool -> USB port mapping and more
 - Team Voodoo -> Keyboard, mouse and touchscreen
+- Chris1111 -> Theming
 - and the entire community for inspiring me!
 
 I was into Hackintoshing since 14 years and its was always fun to try something like this! 
