@@ -1,4 +1,4 @@
-# Thinkpad T470 (Opencore version 0.7.5 and 0.8.3) - Ventura Beta 3 is Rock Stable! 
+# Thinkpad T470 [Opencore version 0.7.5 and 0.8.3(Only Ventura)] - Ventura Beta 3 is Rock Stable! 
 - Use Opencore Configurators associated to above mentioned versions
 - EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
 
@@ -35,12 +35,14 @@ Metal Graphics 3 Fully Supported!
 - Sleep (on AC and off AC)
 - wake works (no issues with resuming services like BT and wifi etc)
 - SD Card port
+- Handoff and Continuity 
 
 
 **What's not working? **
 - USB C data transfer
 - Thunderbolt and 
 - Fingerprint reader
+- Airport (Still using Intel wifi, please let me know if anyone could help me with a BCM94360ng M.2 wifi chip)
 
 **Battery and power management performance **
 - Generate CPU Data provider kext and CPU-data-friend.aml by using https://github.com/corpnewt/CPUFriendFriend , Please note you need to generate these everytime you update the OS to next version, use the lowest frequency by "08" for 800 MHz.
