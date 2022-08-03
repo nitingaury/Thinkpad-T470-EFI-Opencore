@@ -7,6 +7,8 @@
 ![Screenshot 2022-06-14 at 5 00 00 AM](https://user-images.githubusercontent.com/69560584/176019662-387c68d7-aa76-432b-b654-4030dffcc359.png)
 ![Screenshot 2022-06-13 at 1 47 10 AM](https://user-images.githubusercontent.com/69560584/176019745-6d6d80ca-a2dd-47ab-ac05-16fada6ca193.png)
  ![Screenshot 2022-07-13 at 8 02 11 PM](https://user-images.githubusercontent.com/69560584/178759666-2fd91829-58a8-43a6-a466-83fc5f3ee9fe.png)
+ ![Screenshot 2022-08-03 at 17 34 57](https://user-images.githubusercontent.com/69560584/182605272-162b6867-89d0-46dd-a9f1-8753db0fc51a.png)
+
 Metal Graphics 3 Fully Supported! 
 ![Screenshot 2022-07-16 at 1 59 02 AM](https://user-images.githubusercontent.com/69560584/179306436-1b83d3c1-447e-448e-8f88-8a602a479beb.png)
 
@@ -24,6 +26,7 @@ Metal Graphics 3 Fully Supported!
 **What's working? **
 
 - Dual Battery (DSDT/SSDT) 
+- Fan control (Fan stops at low temp below 60 and starts working above 60 automatically, not to worry)
 - Touchscreen (VoodooIC2HID)
 - Power management (CPU friend data)
 - Wifi (Airportitlwm)
