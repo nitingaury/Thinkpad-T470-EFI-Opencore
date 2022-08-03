@@ -19,6 +19,7 @@ Metal Graphics 3 Fully Supported!
 - Hackintoshing may be dangerous and can damage your device and I am not responsible for bricked devices, dead devices, thermonuclear war, or you getting fired because your system failed. Please do some research if you have any concerns about hackintoshing before you proceed. YOU are choosing to make these changes to your system, and if you point the finger at me for messing up your device, I will laugh at you.
 
 **MacOS versions **
+- Mojave (The best version I consider due to very low power usage and I also need some 32bit support, not really a big fan of the iPad interface and look)
 - Bigsur
 - Monterey
 - Ventura
