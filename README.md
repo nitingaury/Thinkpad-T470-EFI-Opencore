@@ -56,7 +56,8 @@ Metal Graphics 3 Fully Supported!
 - Enable HiDpi by using this beautiful tool at "https://github.com/xzhih/one-key-hidpi", Set 2048x1152x32 [16:9] as best screen resolution using RDM(Retina Display Menu) from here -> "https://github.com/avibrazil/RDM".
 
 **My sincere thanks to **
-- Rehabman -> DSDT Patches
+- Rehabman -> DSDT Patches (Used MaciASL for patching and compiling)
+- Tonymac86 -> DSDT Guide
 - Acidanthera -> Kexts
 - Open Core Team -> EFI Creation and Troubleshooting
 - Proper Tree -> Workarounds and EFI editing
