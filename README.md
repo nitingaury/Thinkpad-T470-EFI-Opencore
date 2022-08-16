@@ -48,6 +48,7 @@ Metal Graphics 3 Fully Supported!
 - Fingerprint reader
 
 **Battery and power management performance and more perks! **
+- Use itlwm/Airportitlwm for wifi and bluetooth firmware & injector kexts if you are on an intel wifi card, no kexts needed for bcm94360ng. //Note: for Monterey and above use bluetool fixup instead of bluetooth injector kext.//
 - Generate CPU Data provider kext and CPU-data-friend.aml by using https://github.com/corpnewt/CPUFriendFriend , Please note you need to generate these everytime you update the OS to next version, use the lowest frequency by "08" for 800 MHz.
 - Battery works efficiently and gives a 4.5 hr approx, CPU friend data provider kext performing fine with base frequency as 800 MHz having said average of 1.6 GHz and the peak is 3.5 GHz. 
 - Temperature management is decent and backup depends on how you use and on what task the system is running
