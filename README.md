@@ -39,7 +39,7 @@ Metal Graphics 3 Fully Supported!
 - Sleep (works perfect!)
 - wake works (no issues with resuming services like BT and wifi etc)
 - SD Card slot
-- Handoff and Continuity
+- Handoff and Continuity all features work as BCM94360ng has native support for macOS
 
 
 **What's not working? **
@@ -53,6 +53,7 @@ Metal Graphics 3 Fully Supported!
 - Temperature management is decent and backup depends on how you use and on what task the system is running
 - Sleep works fine with approx 2%-4% for 6 Hrs loss (Which is neglegible)
 - Enable HiDpi by using this beautiful tool at "https://github.com/xzhih/one-key-hidpi", Set 2048x1152x32 [16:9] as best screen resolution using RDM(Retina Display Menu) from here -> "https://github.com/avibrazil/RDM".
+- If you are using FakeSMC fan rpm shows up natively, if you are using VirtualSMC then use YogaSMC.kext for fan rpm.
 
 **My sincere thanks to **
 - Rehabman -> DSDT Patches (Used MaciASL for patching and compiling)
