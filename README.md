@@ -30,8 +30,8 @@ Metal Graphics 3 Fully Supported!
 - Fan control (Fan stops at low temp below 60 and starts working above 60 automatically, not to worry)
 - Touchscreen (VoodooIC2HID)
 - Power management (CPU friend data)
-- Wifi (Airportitlwm)
-- Bluetooth (Intel Bluetooth firmware and Bluetoolfixup)
+- Wifi (BCM94360NG)
+- Bluetooth (BCM94360NG)
 - USB C (only HDMI but no data transfer / Charging only)
 - HDMI (No issues)
 - Graphics HD 620 with acceleration (Metal Support)
@@ -39,14 +39,13 @@ Metal Graphics 3 Fully Supported!
 - Sleep (works perfect!)
 - wake works (no issues with resuming services like BT and wifi etc)
 - SD Card slot
-- Handoff and Continuity (Partial)
+- Handoff and Continuity
 
 
 **What's not working? **
 - USB C data transfer
 - Thunderbolt and 
 - Fingerprint reader
-- Airdrop (Still using Intel wifi, waiting for the BCM94360ng M.2 wifi chip)
 
 **Battery and power management performance and more perks! **
 - Generate CPU Data provider kext and CPU-data-friend.aml by using https://github.com/corpnewt/CPUFriendFriend , Please note you need to generate these everytime you update the OS to next version, use the lowest frequency by "08" for 800 MHz.
