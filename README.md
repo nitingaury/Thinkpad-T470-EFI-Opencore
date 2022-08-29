@@ -58,6 +58,7 @@ Metal Graphics 3 Fully Supported!
 
 **My sincere thanks to **
 - Rehabman -> DSDT Patches (Used MaciASL for patching and compiling)
+- Tluck's Repository, Great work done there!
 - Tonymac86 -> DSDT Guide
 - Acidanthera -> Kexts
 - Open Core Team -> EFI Creation and Troubleshooting
