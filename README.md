@@ -1,4 +1,4 @@
-# Thinkpad T470 20HE is Rock Stable! 
+# Thinkpad T470 20HE makes a stable Hackintosh machine! 
 - Use Opencore Configurators associated to above mentioned versions
 - EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
 ![Screenshot 2022-08-29 at 3 48 35 PM](https://user-images.githubusercontent.com/69560584/187180436-0cdcea01-6e9e-435e-903d-12f92a579514.png)
