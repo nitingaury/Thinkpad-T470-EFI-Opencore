@@ -39,8 +39,7 @@
 
 **What's not working?**
 - USB C data transfer
-- Thunderbolt and 
-- Fingerprint reader
+- Fingerprint reader (Will not work)
 
 **DSDT and SSDT extraction and patching**
 1. Extract your ACPI tables by using opencore debug version
