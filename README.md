@@ -63,7 +63,6 @@
 - Acidanthera -> Kexts
 - Open Core Team -> EFI Creation and Troubleshooting
 - Proper Tree -> Workarounds and EFI editing
-- CPUFriendFriend -> Power Management
 - Corpnewt -> USB Mapping kext
 - Team Voodoo -> Keyboard, mouse and touchscreen
 - Chris1111 -> Theming
