@@ -1,17 +1,11 @@
 # Thinkpad T470 20HE is Rock Stable! 
 - Use Opencore Configurators associated to above mentioned versions
 - EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
-
- ![26183418](https://user-images.githubusercontent.com/69560584/181090042-051f9bf0-6707-4c8f-a018-358f4492cdda.png) - Merge the resources folder for theme!
- ![Screenshot 2022-06-27 at 22 59 05](https://user-images.githubusercontent.com/69560584/176019544-e079d93f-f2db-4881-8b67-75cd78114ea6.png)
-![Screenshot 2022-06-14 at 5 00 00 AM](https://user-images.githubusercontent.com/69560584/176019662-387c68d7-aa76-432b-b654-4030dffcc359.png)
-![Screenshot 2022-06-13 at 1 47 10 AM](https://user-images.githubusercontent.com/69560584/176019745-6d6d80ca-a2dd-47ab-ac05-16fada6ca193.png)
- ![Screenshot 2022-07-13 at 8 02 11 PM](https://user-images.githubusercontent.com/69560584/178759666-2fd91829-58a8-43a6-a466-83fc5f3ee9fe.png)
- ![Screenshot 2022-08-03 at 17 34 57](https://user-images.githubusercontent.com/69560584/182605272-162b6867-89d0-46dd-a9f1-8753db0fc51a.png)
-
-Metal Graphics 3 Fully Supported! 
-![Screenshot 2022-07-16 at 1 59 02 AM](https://user-images.githubusercontent.com/69560584/179306436-1b83d3c1-447e-448e-8f88-8a602a479beb.png)
-
+![Screenshot 2022-08-29 at 3 48 35 PM](https://user-images.githubusercontent.com/69560584/187180436-0cdcea01-6e9e-435e-903d-12f92a579514.png)
+![Screenshot 2022-08-29 at 3 48 21 PM](https://user-images.githubusercontent.com/69560584/187180452-495b2e7e-7ec0-4802-9e55-7f7bbebd55dd.png)
+![Screenshot 2022-08-29 at 3 48 58 PM](https://user-images.githubusercontent.com/69560584/187180478-a2127ca2-8491-4d4d-b5fb-8593d5725c29.png)
+![Screenshot 2022-08-29 at 3 49 14 PM](https://user-images.githubusercontent.com/69560584/187180514-5c542690-3292-4244-895f-e4cb5e0a9502.png)
+![Screenshot 2022-08-29 at 3 50 00 PM](https://user-images.githubusercontent.com/69560584/187180560-f14ac4c4-a774-48d6-947a-2307f13ea89f.png)
 
 ![prod-rc-lenovo-thinkpad-t470_Big](https://user-images.githubusercontent.com/69560584/173252878-b85074c5-dff4-46bc-986a-e200deb44b8b.png) ---> 99% working!
 
