@@ -20,7 +20,7 @@
 - Catalina
 - Bigsur
 - Monterey
-- Ventura (Touchscreen is breaking sleep so has to disable it, waiting for release version)
+- Ventura (Disable touchscreen in USB Mapping so it doesn't messup with wake after sleep)
 
 **What's working?**
 
