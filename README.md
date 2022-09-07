@@ -1,30 +1,25 @@
-# Thinkpad T470 20HE is Rock Stable! 
+# Thinkpad T470 20HE makes a stable Hackintosh machine! 
 - Use Opencore Configurators associated to above mentioned versions
 - EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
-
- ![26183418](https://user-images.githubusercontent.com/69560584/181090042-051f9bf0-6707-4c8f-a018-358f4492cdda.png) - Merge the resources folder for theme!
- ![Screenshot 2022-06-27 at 22 59 05](https://user-images.githubusercontent.com/69560584/176019544-e079d93f-f2db-4881-8b67-75cd78114ea6.png)
-![Screenshot 2022-06-14 at 5 00 00 AM](https://user-images.githubusercontent.com/69560584/176019662-387c68d7-aa76-432b-b654-4030dffcc359.png)
-![Screenshot 2022-06-13 at 1 47 10 AM](https://user-images.githubusercontent.com/69560584/176019745-6d6d80ca-a2dd-47ab-ac05-16fada6ca193.png)
- ![Screenshot 2022-07-13 at 8 02 11 PM](https://user-images.githubusercontent.com/69560584/178759666-2fd91829-58a8-43a6-a466-83fc5f3ee9fe.png)
- ![Screenshot 2022-08-03 at 17 34 57](https://user-images.githubusercontent.com/69560584/182605272-162b6867-89d0-46dd-a9f1-8753db0fc51a.png)
-
-Metal Graphics 3 Fully Supported! 
-![Screenshot 2022-07-16 at 1 59 02 AM](https://user-images.githubusercontent.com/69560584/179306436-1b83d3c1-447e-448e-8f88-8a602a479beb.png)
-
+![Screenshot 2022-08-29 at 3 48 35 PM](https://user-images.githubusercontent.com/69560584/187180436-0cdcea01-6e9e-435e-903d-12f92a579514.png)
+![Screenshot 2022-08-29 at 3 48 21 PM](https://user-images.githubusercontent.com/69560584/187180452-495b2e7e-7ec0-4802-9e55-7f7bbebd55dd.png)
+![Screenshot 2022-08-29 at 3 48 58 PM](https://user-images.githubusercontent.com/69560584/187180478-a2127ca2-8491-4d4d-b5fb-8593d5725c29.png)
+![Screenshot 2022-08-29 at 3 49 14 PM](https://user-images.githubusercontent.com/69560584/187180514-5c542690-3292-4244-895f-e4cb5e0a9502.png)
+![Screenshot 2022-08-29 at 3 50 00 PM](https://user-images.githubusercontent.com/69560584/187180560-f14ac4c4-a774-48d6-947a-2307f13ea89f.png)
 
 ![prod-rc-lenovo-thinkpad-t470_Big](https://user-images.githubusercontent.com/69560584/173252878-b85074c5-dff4-46bc-986a-e200deb44b8b.png) ---> 99% working!
 
-**Disclaimer **
+**Disclaimer**
 - Hackintoshing may be dangerous and can damage your device and I am not responsible for bricked devices, dead devices, thermonuclear war, or you getting fired because your system failed. Please do some research if you have any concerns about hackintoshing before you proceed. YOU are choosing to make these changes to your system, and if you point the finger at me for messing up your device, I will laugh at you.
 
-**MacOS versions **
-- Mojave (The best version I consider due to very low power usage and I also need some 32bit support, not really a big fan of the iPad interface and look)
+**MacOS versions**
+- Mojave 
+- Catalina
 - Bigsur
 - Monterey
 - Ventura
 
-**What's working? **
+**What's working?**
 
 - Dual Battery (X220 Battery patch) 
 - Fan control (Fan stops at low temp below 60 and starts working above 60 automatically, not to worry)
@@ -42,28 +37,32 @@ Metal Graphics 3 Fully Supported!
 - Handoff and Continuity all features work as BCM94360ng has native support for macOS
 
 
-**What's not working? **
+**What's not working?**
 - USB C data transfer
-- Thunderbolt and 
-- Fingerprint reader
+- Fingerprint reader (Will not work)
 
-**Battery and power management performance and more perks! **
+**DSDT and SSDT extraction and patching**
+1. Extract your ACPI tables by using opencore debug version
+2. Paste the root files in the respective folder locations in your system root
+3. copy your ACPI Tables in the folder "ACPI-Tables)
+4. execute "create_patched_DSDT.command" so you get the DSDT aml and dsl files
+5. Now execute "install_ACPI_to_ESP.command" to generate all SSDT from samples
+6. Copy .aml files to your ACPI folder which are needed only, refer to the updated efi folder for clarity. 
+
+**Battery and power management performance and more perks!**
 - Use itlwm/Airportitlwm for wifi and bluetooth firmware & injector kexts if you are on an intel wifi card, no kexts needed for bcm94360ng. //Note: for Monterey and above use bluetool fixup instead of bluetooth injector kext.//
-- Generate CPU Data provider kext and CPU-data-friend.aml by using https://github.com/corpnewt/CPUFriendFriend , Please note you need to generate these everytime you update the OS to next version, use the lowest frequency by "08" for 800 MHz.
-- Battery works efficiently and gives a 4.5 hr approx, CPU friend data provider kext performing fine with base frequency as 800 MHz having said average of 1.6 GHz and the peak is 3.5 GHz. 
 - Temperature management is decent and backup depends on how you use and on what task the system is running
 - Sleep works fine with approx 2%-4% for 6 Hrs loss (Which is neglegible)
 - Enable HiDpi by using this beautiful tool at "https://github.com/xzhih/one-key-hidpi", Set 2048x1152x32 [16:9] as best screen resolution using RDM(Retina Display Menu) from here -> "https://github.com/avibrazil/RDM".
 - If you are using FakeSMC fan rpm shows up natively, if you are using VirtualSMC then use YogaSMC.kext for fan rpm.
 
-**My sincere thanks to **
+**My sincere thanks to**
 - Rehabman -> DSDT Patches (Used MaciASL for patching and compiling)
 - Tluck's Repository, Great work done there!
 - Tonymac86 -> DSDT Guide
 - Acidanthera -> Kexts
 - Open Core Team -> EFI Creation and Troubleshooting
 - Proper Tree -> Workarounds and EFI editing
-- CPUFriendFriend -> Power Management
 - Corpnewt -> USB Mapping kext
 - Team Voodoo -> Keyboard, mouse and touchscreen
 - Chris1111 -> Theming
