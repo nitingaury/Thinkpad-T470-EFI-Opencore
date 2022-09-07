@@ -1,6 +1,8 @@
 # Thinkpad T470 20HE makes a stable Hackintosh machine! 
 - Use Opencore Configurators associated to above mentioned versions
 - EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
+![Screenshot 2022-09-07 at 9 25 13 PM](https://user-images.githubusercontent.com/69560584/188924883-c74acf29-def2-4c3c-9fab-e0a58d379419.png)
+![Screenshot 2022-09-07 at 9 26 28 PM](https://user-images.githubusercontent.com/69560584/188924903-7df210e4-9bcf-499c-86a4-3455281f906a.png)
 ![Screenshot 2022-08-29 at 3 48 35 PM](https://user-images.githubusercontent.com/69560584/187180436-0cdcea01-6e9e-435e-903d-12f92a579514.png)
 ![Screenshot 2022-08-29 at 3 48 21 PM](https://user-images.githubusercontent.com/69560584/187180452-495b2e7e-7ec0-4802-9e55-7f7bbebd55dd.png)
 ![Screenshot 2022-08-29 at 3 48 58 PM](https://user-images.githubusercontent.com/69560584/187180478-a2127ca2-8491-4d4d-b5fb-8593d5725c29.png)
@@ -17,7 +19,7 @@
 - Catalina
 - Bigsur
 - Monterey
-- Ventura
+- Ventura (Touchscreen is breaking sleep so has to disable it, waiting for release version)
 
 **What's working?**
 
