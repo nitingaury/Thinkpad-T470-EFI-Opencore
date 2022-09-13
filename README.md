@@ -1,16 +1,10 @@
-# Thinkpad T470 20HE makes a stable Hackintosh machine! 
-- Use Opencore Configurators associated to above mentioned versions
-- EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
-![Screenshot 2022-09-07 at 9 25 13 PM](https://user-images.githubusercontent.com/69560584/188926072-95cdfff3-e488-44f0-b399-571a5ccb0001.png)
-![Screenshot 2022-09-07 at 9 30 48 PM](https://user-images.githubusercontent.com/69560584/188925504-c7a07be0-eeab-43bf-820f-fa56154550cc.png)
-![Screenshot 2022-09-07 at 9 26 28 PM](https://user-images.githubusercontent.com/69560584/188924903-7df210e4-9bcf-499c-86a4-3455281f906a.png)
-![Screenshot 2022-08-29 at 3 48 35 PM](https://user-images.githubusercontent.com/69560584/187180436-0cdcea01-6e9e-435e-903d-12f92a579514.png)
-![Screenshot 2022-08-29 at 3 48 21 PM](https://user-images.githubusercontent.com/69560584/187180452-495b2e7e-7ec0-4802-9e55-7f7bbebd55dd.png)
-![Screenshot 2022-08-29 at 3 48 58 PM](https://user-images.githubusercontent.com/69560584/187180478-a2127ca2-8491-4d4d-b5fb-8593d5725c29.png)
-![Screenshot 2022-08-29 at 3 49 14 PM](https://user-images.githubusercontent.com/69560584/187180514-5c542690-3292-4244-895f-e4cb5e0a9502.png)
-![Screenshot 2022-08-29 at 3 50 00 PM](https://user-images.githubusercontent.com/69560584/187180560-f14ac4c4-a774-48d6-947a-2307f13ea89f.png)
+# The Thinkpad T470 20HE makes a stable Hackintosh machine! 
 
-![prod-rc-lenovo-thinkpad-t470_Big](https://user-images.githubusercontent.com/69560584/173252878-b85074c5-dff4-46bc-986a-e200deb44b8b.png) ---> 99% working!
+![lenovo T470 github](https://user-images.githubusercontent.com/69560584/189785204-1f684515-7708-4a69-ae59-a0161249cce4.png)
+![Screenshot 2022-09-13 at 6 00 02 AM](https://user-images.githubusercontent.com/69560584/189782384-6f9df794-3fac-48b6-9e40-c135c030c8f5.png)
+![Screenshot 2022-09-13 at 5 55 21 AM](https://user-images.githubusercontent.com/69560584/189782400-99d6fef9-711e-41a6-a687-c9dc68210f5d.png)
+![Screenshot 2022-09-13 at 5 54 45 AM](https://user-images.githubusercontent.com/69560584/189782402-60d9235a-bb02-4887-8e1d-4b8764056cce.png)
+![Screenshot 2022-09-13 at 5 54 37 AM](https://user-images.githubusercontent.com/69560584/189782404-569861de-ad6c-4695-8f87-2b967549b6db.png)
 
 **Disclaimer**
 - Hackintoshing may be dangerous and can damage your device and I am not responsible for bricked devices, dead devices, thermonuclear war, or you getting fired because your system failed. Please do some research if you have any concerns about hackintoshing before you proceed. YOU are choosing to make these changes to your system, and if you point the finger at me for messing up your device, I will laugh at you.
@@ -20,21 +14,20 @@
 - Catalina
 - Bigsur
 - Monterey
-- Ventura (Disable touchscreen in USB Mapping so it doesn't messup with wake after sleep)
+- Ventura 
 
 **What's working?**
 
 - Dual Battery (X220 Battery patch) 
 - All function keys working with yoga SMC
-- Graphics (Metal 2 and metal 3 fully supported)
+- Graphics HD 620 with acceleration (Metal 3 Supported) - [VRAM = 4096MB]
 - Fan control (Fan stops at low temp below 60 and starts working above 60 automatically, not to worry)
-- Touchscreen (VoodooIC2HID)
+- Touchscreen (VoodooI2C)
 - Power management (CPU friend data)
 - Wifi (BCM94360NG)
 - Bluetooth (BCM94360NG)
 - USB C (only HDMI but no data transfer / Charging only)
 - HDMI (No issues)
-- Graphics HD 620 with acceleration (Metal Support)
 - Apple HD Audio (ALC id=47)
 - Sleep (works perfect!)
 - wake works (no issues with resuming services like BT and wifi etc)
@@ -45,7 +38,6 @@
 **What's not working?**
 - USB C data transfer
 - Fingerprint reader (Will not work)
-- DRM
 
 **DSDT and SSDT extraction and patching**
 1. Extract your ACPI tables by using opencore debug version
