@@ -1,9 +1,8 @@
-# Thinkpad T470 20HE makes a stable Hackintosh machine! 
-- Use Opencore Configurators associated to above mentioned versions
+# The Thinkpad T470 20HE makes a stable Hackintosh machine! 
 
 ![lenovo T470 github](https://user-images.githubusercontent.com/69560584/189785204-1f684515-7708-4a69-ae59-a0161249cce4.png)
 
-- EFI folder for Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
+- Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
 ![Screenshot 2022-09-13 at 6 00 02 AM](https://user-images.githubusercontent.com/69560584/189782384-6f9df794-3fac-48b6-9e40-c135c030c8f5.png)
 ![Screenshot 2022-09-13 at 5 55 21 AM](https://user-images.githubusercontent.com/69560584/189782400-99d6fef9-711e-41a6-a687-c9dc68210f5d.png)
 ![Screenshot 2022-09-13 at 5 54 45 AM](https://user-images.githubusercontent.com/69560584/189782402-60d9235a-bb02-4887-8e1d-4b8764056cce.png)
