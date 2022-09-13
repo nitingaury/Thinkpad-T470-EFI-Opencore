@@ -20,11 +20,12 @@
 - Catalina
 - Bigsur
 - Monterey
-- Ventura (Touchscreen is breaking sleep so has to disable it, waiting for release version)
+- Ventura (Disable touchscreen in USB Mapping so it doesn't messup with wake after sleep)
 
 **What's working?**
 
 - Dual Battery (X220 Battery patch) 
+- All function keys working with yoga SMC
 - Graphics (Metal 2 and metal 3 fully supported)
 - Fan control (Fan stops at low temp below 60 and starts working above 60 automatically, not to worry)
 - Touchscreen (VoodooIC2HID)
