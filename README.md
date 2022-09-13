@@ -1,8 +1,6 @@
 # The Thinkpad T470 20HE makes a stable Hackintosh machine! 
 
 ![lenovo T470 github](https://user-images.githubusercontent.com/69560584/189785204-1f684515-7708-4a69-ae59-a0161249cce4.png)
-
-- Opencore Thinkpad T470 Hackintosh 20HE Touchscreen model
 ![Screenshot 2022-09-13 at 6 00 02 AM](https://user-images.githubusercontent.com/69560584/189782384-6f9df794-3fac-48b6-9e40-c135c030c8f5.png)
 ![Screenshot 2022-09-13 at 5 55 21 AM](https://user-images.githubusercontent.com/69560584/189782400-99d6fef9-711e-41a6-a687-c9dc68210f5d.png)
 ![Screenshot 2022-09-13 at 5 54 45 AM](https://user-images.githubusercontent.com/69560584/189782402-60d9235a-bb02-4887-8e1d-4b8764056cce.png)
@@ -22,15 +20,14 @@
 
 - Dual Battery (X220 Battery patch) 
 - All function keys working with yoga SMC
-- Graphics (Metal 2 and metal 3 fully supported) - 4096MB
+- Graphics HD 620 with acceleration (Metal 3 Supported) - [VRAM = 4096MB]
 - Fan control (Fan stops at low temp below 60 and starts working above 60 automatically, not to worry)
-- Touchscreen (VoodooIC2HID)
+- Touchscreen (VoodooI2C)
 - Power management (CPU friend data)
 - Wifi (BCM94360NG)
 - Bluetooth (BCM94360NG)
 - USB C (only HDMI but no data transfer / Charging only)
 - HDMI (No issues)
-- Graphics HD 620 with acceleration (Metal Support)
 - Apple HD Audio (ALC id=47)
 - Sleep (works perfect!)
 - wake works (no issues with resuming services like BT and wifi etc)
@@ -41,7 +38,6 @@
 **What's not working?**
 - USB C data transfer
 - Fingerprint reader (Will not work)
-- DRM
 
 **DSDT and SSDT extraction and patching**
 1. Extract your ACPI tables by using opencore debug version
