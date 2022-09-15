@@ -3,68 +3,94 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>20G730</string>
+	<string>19F101</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>VoodooInput</string>
+	<string>VoodooI2CFTE</string>
 	<key>CFBundleIdentifier</key>
-	<string>me.kishorprins.VoodooInput</string>
+	<string>me.kishorprins.VoodooI2CFTE</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>VoodooInput</string>
+	<string>VoodooI2CFTE</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.3</string>
+	<string>1.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.3</string>
+	<string>1</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>13C100</string>
-	<key>DTPlatformName</key>
-	<string>macosx</string>
+	<string>11E801a</string>
 	<key>DTPlatformVersion</key>
-	<string>12.1</string>
+	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>21C46</string>
+	<string>19G68</string>
 	<key>DTSDKName</key>
-	<string>macosx12.1</string>
+	<string>macosx10.15</string>
 	<key>DTXcode</key>
-	<string>1321</string>
+	<string>1170</string>
 	<key>DTXcodeBuild</key>
-	<string>13C100</string>
+	<string>11E801a</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>Voodoo Input</key>
+		<key>FTE Trackpad</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>me.kishorprins.VoodooInput</string>
+			<string>me.kishorprins.VoodooI2CFTE</string>
 			<key>IOClass</key>
-			<string>VoodooInput</string>
+			<string>VoodooI2CFTETouchpadDriver</string>
 			<key>IOProbeScore</key>
 			<integer>200</integer>
 			<key>IOPropertyMatch</key>
 			<dict>
-				<key>VoodooInputSupported</key>
-				<true/>
+				<key>name</key>
+				<string>FTE1001</string>
 			</dict>
 			<key>IOProviderClass</key>
-			<string>IOService</string>
+			<string>VoodooI2CDeviceNub</string>
+			<key>QuietTimeAfterTyping</key>
+			<integer>500</integer>
+			<key>RM,deliverNotifications</key>
+			<true/>
+		</dict>
+		<key>VoodooI2CHIDDevice</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>me.kishorprins.VoodooI2CFTE</string>
+			<key>IOClass</key>
+			<string>VoodooI2CFTETouchpadDriver</string>
+			<key>IOProbeScore</key>
+			<integer>200</integer>
+			<key>IOPropertyMatch</key>
+			<dict>
+				<key>compatible</key>
+				<string>PNP0C50</string>
+			</dict>
+			<key>IOProviderClass</key>
+			<string>VoodooI2CDeviceNub</string>
+			<key>QuietTimeAfterTyping</key>
+			<integer>500</integer>
+			<key>RM,deliverNotifications</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.11</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2019 Kishor Prins. All rights reserved.</string>
+	<string>Copyright © 2018 Sarvar Khasanov. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
 	<dict>
+		<key>com.alexandred.VoodooI2C</key>
+		<string>2.0</string>
+		<key>com.apple.iokit.IOACPIFamily</key>
+		<string>1.4</string>
 		<key>com.apple.iokit.IOHIDFamily</key>
 		<string>2.0</string>
 		<key>com.apple.kpi.iokit</key>
@@ -74,7 +100,5 @@
 		<key>com.apple.kpi.mach</key>
 		<string>13.0</string>
 	</dict>
-	<key>OSBundleRequired</key>
-	<string>Root</string>
 </dict>
 </plist>
