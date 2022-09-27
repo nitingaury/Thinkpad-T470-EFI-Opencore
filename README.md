@@ -54,6 +54,14 @@
 - Sleep works fine with approx 2%-4% for 6 Hrs loss (Which is neglegible)
 - Enable HiDpi by using this beautiful tool at "https://github.com/xzhih/one-key-hidpi", Set 2048x1152x32 [16:9] as best screen resolution using RDM(Retina Display Menu) from here -> "https://github.com/avibrazil/RDM".
 - If you are using FakeSMC fan rpm shows up natively, if you are using VirtualSMC then use YogaSMC.kext for fan rpm.
+- unifiedmem values for vram 
+00000040 = 1024MB
+00000060 = 1536MB
+00000080 = 2048MB
+000000A0 = 2560MB
+000000C0 = 3072MB
+000000E0 = 3584MB
+FFFFFFFF = 4096MB
 
 **My sincere thanks to**
 - Rehabman -> DSDT Patches (Used MaciASL for patching and compiling)
