@@ -72,14 +72,15 @@ sudo pmset tcpkeepalive 0
 000000E0 = 3584MB
 FFFFFFFF = 4096MB
 ```
-**My sincere thanks to**
-- OC-Little -> Hotpatching
-- Acidanthera -> Kexts
-- Open Core Team -> EFI Creation and Troubleshooting
-- Proper Tree -> Workarounds and EFI editing
-- Corpnewt -> USB Mapping kext
-- Team Voodoo -> Keyboard, mouse and touchscreen
-- Chris1111 -> Theming
+## My sincere thanks to**
+
+- [Acidanthera](https://github.com/acidanthera)
+- [Dortania OC guide](https://dortania.github.io/OpenCore-Install-Guide/)
+- [Rehabman's battery patch guide](https://www.tonymacx86.com/threads/guide-how-to-patch-dsdt-for-working-battery-status.116102/) and [Rehabman's ACPI hotpatching guide](https://www.tonymacx86.com/threads/guide-using-clover-to-hotpatch-acpi.200137/)
+- [CorpNewt's tools](https://github.com/corpnewt)
+- [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI)
+- [YogaSMC](https://github.com/zhen-zen/YogaSMC)
+- [Daliansky's OC-little repo](https://github.com/daliansky/OC-little)
 - and the entire community for inspiring me!
 
 I was into Hackintoshing since 14 years and its was always fun to try something like this! 
