@@ -64,9 +64,7 @@
 FFFFFFFF = 4096MB
 
 **My sincere thanks to**
-- Rehabman -> DSDT Patches (Used MaciASL for patching and compiling)
-- Tluck's Repository, Great work done there!
-- Tonymac86 -> DSDT Guide
+- OC-Little -> Hotpatching
 - Acidanthera -> Kexts
 - Open Core Team -> EFI Creation and Troubleshooting
 - Proper Tree -> Workarounds and EFI editing
