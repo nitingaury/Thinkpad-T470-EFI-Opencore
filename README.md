@@ -50,24 +50,24 @@
 
 **Battery and power management performance and more perks!**
 - Disable hibernation, since it doesn't work properly on hackintoshes
- -sudo pmset autopoweroff 0
- -sudo pmset powernap 0
- -sudo pmset standby 0
- -sudo pmset proximitywake 0
- -sudo pmset tcpkeepalive 0
+ *sudo pmset autopoweroff 0
+ *sudo pmset powernap 0
+ *sudo pmset standby 0
+ *sudo pmset proximitywake 0
+ *sudo pmset tcpkeepalive 0
 - Use itlwm/Airportitlwm for wifi and bluetooth firmware & injector kexts if you are on an intel wifi card, no kexts needed for bcm94360ng. //Note: for Monterey and above use bluetool fixup instead of bluetooth injector kext.//
 - Temperature management is decent and backup depends on how you use and on what task the system is running
 - Sleep works fine with approx 2%-4% for 6 Hrs loss (Which is neglegible)
 - Enable HiDpi by using this beautiful tool at "https://github.com/xzhih/one-key-hidpi", Set 2048x1152x32 [16:9] as best screen resolution using RDM(Retina Display Menu) from here -> "https://github.com/avibrazil/RDM".
 - If you are using FakeSMC fan rpm shows up natively, if you are using VirtualSMC then use YogaSMC.kext for fan rpm.
 - unifiedmem values for vram 
-00000040 = 1024MB
-00000060 = 1536MB
-00000080 = 2048MB
-000000A0 = 2560MB
-000000C0 = 3072MB
-000000E0 = 3584MB
-FFFFFFFF = 4096MB
+*00000040 = 1024MB
+*00000060 = 1536MB
+*00000080 = 2048MB
+*000000A0 = 2560MB
+*000000C0 = 3072MB
+*000000E0 = 3584MB
+*FFFFFFFF = 4096MB
 
 **My sincere thanks to**
 - OC-Little -> Hotpatching
