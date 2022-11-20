@@ -73,6 +73,7 @@ sudo pmset tcpkeepalive 0
 FFFFFFFF = 4096MB
 ```
 **Undervolting the hackintoshed T470:**
+![Uploading Screenshot 2022-11-20 at 4.55.01 PM.png…]()
 - T470 is powerful and efficent but very hungry machine and makes noise too.. so its important to calm down him so he can be cool enough.. which is where we need to undervolt the machine. Undervolting is safe than overclocking just that if you undervolt too much and your machine hangs up so know the limits and know where to hold him live!
 - Command+Space -> Terminal
 - type now : 
