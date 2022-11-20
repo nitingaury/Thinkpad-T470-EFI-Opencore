@@ -72,8 +72,47 @@ sudo pmset tcpkeepalive 0
 000000E0 = 3584MB
 FFFFFFFF = 4096MB
 ```
-**Next into undervolting:**
-
+**Undervolting the hackintoshed T470:**
+- T470 is powerful and efficent but very hungry machine and makes noise too.. so its important to calm down him so he can be cool enough.. which is where we need to undervolt the machine. Undervolting is safe than overclocking just that if you undervolt too much and your machine hangs up so know the limits and know where to hold him live!
+- Command+Space -> Terminal
+- type now : 
+```
+sudo csrutil enable --without kext
+```
+Now, reboot to your desktop and download voltage shift from "https://github.com/sicreative/VoltageShift/blob/master/voltageshift_1.25.zip" and extract the contents to your Documents folder, also move the VoltageShift.kext to your EFI/OC/Kexts and update your info.plist and use proper tree to take a snapshot too.
+- Now open a terminal at this folder and run
+```
+sudo ./voltageshift info
+```
+- This should look like this if your overclocking unlock was successful:
+```
+CPU voltage offset: 0mv
+GPU voltage offset: 0mv
+CPU Cache voltage offset: 0mv
+OC mailbox cmd failed
+System Agency offset: 0mv
+Analogy I/O: 0mv
+OC mailbox cmd failed
+Digital I/O: 0mv
+CPU BaseFreq: 1200, CPU MaxFreq(1/2/4): 3400/3400/3400 (mhz) 
+CPU Freq: 1.4ghz, Voltage: 0.6499v, Power:pkg 2.29w /core 0.22w,Temp: 53 c
+```
+- Now you can run (Values that match to your machine)
+```
+./voltageshift offset -60 -50 -60
+```
+- -60 offsets cpu voltage by -60mv, then -50 the gpu voltage and -60 again offsets the cpu cache voltage
+- Test a range of values for all. For me, -155 -80 -155 caused a crash so I stayed at -130 -75 -130 which was stable.
+- Once you have found a stable set of values run the following which will save the changes and rerun then on reboots when they would otherwise be disabled:
+```
+sudo ./voltageshift buildlaunchd  -130 -75 -130 0 0 0 0 0 1 10 12 1 160
+```
+- Here the values 10 and 12 are your PL1 and PL2s, since my CPU's TDP is 12w, I set the PL1 to 10W and PL2 to 12W. The 160 simply reruns the command every 160min since Hibernation resets your undervolts.
+- The remaining values do this:
+```
+sudo ./voltageshift buildlaunchd <CPU> <GPU> <CPUCache> <SA> <AI/O> <DI/O> <turbo> <pl1> <pl2> <remain> <UpdateMins (0 only apply at bootup)>
+```
+- done now!
 
 ## My sincere thanks to**
 
