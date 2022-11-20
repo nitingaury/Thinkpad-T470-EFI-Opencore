@@ -29,7 +29,7 @@
 - Bluetooth (BCM94360NG)
 - USB C (only HDMI but no data transfer / Charging only)
 - HDMI (No issues)
-- Apple HD Audio (ALC id=47)
+- Apple HD Audio (ALC id=29 but not 47, because 47 gives unwanted buzzing noise when 3.5mm jack connected)
 - Sleep (works perfect!)
 - wake works (no issues with resuming services like BT and wifi etc)
 - SD Card slot
