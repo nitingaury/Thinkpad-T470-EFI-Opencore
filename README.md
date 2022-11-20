@@ -39,14 +39,6 @@
 - USB C data transfer
 - Fingerprint reader (Will not work)
 
-**DSDT and SSDT extraction and patching**
-1. Extract your ACPI tables by using opencore debug version
-2. Paste the root files in the respective folder locations in your system root
-3. copy your ACPI Tables in the folder "ACPI-Tables)
-4. execute "create_patched_DSDT.command" so you get the DSDT aml and dsl files
-5. Now execute "install_ACPI_to_ESP.command" to generate all SSDT from samples
-6. Copy .aml files to your ACPI folder which are needed only, refer to the updated efi folder for clarity. 
-
 **Battery and power management performance and more perks!**
 - Disable hibernation, since it doesn't work properly on hackintoshes
 ```
