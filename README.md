@@ -22,7 +22,7 @@
 - All function keys working with yoga SMC
 - Graphics HD 620 with acceleration (Metal 3 Supported) - [VRAM = 4096MB]
 - Fan control (Fan stops at low temp below 60 and starts working above 60 automatically, not to worry)
-- Touchscreen (VoodooI2C)
+- Touchscreen (VoodooI2C) - disabled it because it works like a f**king gaint touchpad!
 - Power management (CPU friend data)
 - Wifi (BCM94360NG)
 - Bluetooth (BCM94360NG)
