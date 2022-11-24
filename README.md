@@ -22,7 +22,7 @@
 - Dual Battery (X220 Battery patch) 
 - All function keys working with yoga SMC
 - Graphics HD 620 with acceleration (Metal 3 Supported) - [VRAM = 4096MB]
-- Fan control (Fan stops at low temp below 60 and starts working above 60 automatically, not to worry)
+- Fan control (Fan stops at low temp below 60 and starts working above 55 automatically, not to worry)
 - Touchscreen (VoodooI2C) - disabled it because it works like a f**king gaint touchpad!
 - Power management (CPU friend data)
 - Wifi (BCM94360NG)
@@ -108,7 +108,7 @@ sudo ./voltageshift buildlaunchd  -130 -75 -130 0 0 0 0 0 1 10 12 1 160
 ```
 sudo ./voltageshift buildlaunchd <CPU> <GPU> <CPUCache> <SA> <AI/O> <DI/O> <turbo> <pl1> <pl2> <remain> <UpdateMins (0 only apply at bootup)>
 ```
-- done now!
+- Now the T470 never heats up and the fan is on 0rpm most of the time even when 3-4 applications are running simultaneously and the temprature wouldnt exceed 46°C on normal browsing + Music + Mail + Messages tasks. The Fan would automatically start when the temperature rises above 55°C and drops down to normal again after closing the high CPU usage task which is completely normal
 
 ## donate
 <a href="https://paypal.me/nitingauri/"><img src="blue.svg" height="40"></a>  
