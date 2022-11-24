@@ -18,6 +18,7 @@
 
 **What's working?**
 
+- CPU Undervolting
 - Dual Battery (X220 Battery patch) 
 - All function keys working with yoga SMC
 - Graphics HD 620 with acceleration (Metal 3 Supported) - [VRAM = 4096MB]
