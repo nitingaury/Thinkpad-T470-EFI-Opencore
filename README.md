@@ -21,7 +21,7 @@
     <a target="__blank" href="https://github.com/acidanthera/OpenCorePkg">
       <img src="https://img.shields.io/badge/OpenCore-0.8.5-darkblue.svg?style=flat">
     </a>
-    <a target="__blank" href="https://pcsupport.lenovo.com/fr/fr/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t470">
+    <a target="__blank" href="https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t470">
       <img src="https://img.shields.io/badge/Model-20HE-darkcyan?style=flat">
     </a>
     <a target="__blank" href="https://travis-ci.org/IceEnd/Yosoro">
