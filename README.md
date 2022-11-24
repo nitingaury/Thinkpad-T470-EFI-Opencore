@@ -110,9 +110,9 @@ sudo ./voltageshift buildlaunchd <CPU> <GPU> <CPUCache> <SA> <AI/O> <DI/O> <turb
 ```
 - done now!
 
-## Like my work? buy me a cup of coffee! **
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KVKRKDUER8XT8)
+## donate
+<a href="https://paypal.me/nitingauri/"><img src="blue.svg" height="40"></a>  
+If you enjoyed this project — or just feeling generous, consider buying me a beer. Cheers! :beers:
 
 
 ## My sincere thanks to**
