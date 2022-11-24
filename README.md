@@ -9,6 +9,26 @@
 **Disclaimer**
 - Hackintoshing may be dangerous and can damage your device and I am not responsible for bricked devices, dead devices, thermonuclear war, or you getting fired because your system failed. Please do some research if you have any concerns about hackintoshing before you proceed. YOU are choosing to make these changes to your system, and if you point the finger at me for messing up your device, I will laugh at you.
 
+<h3 align="center" style="font-style:italic; color: grey">OpenCore EFI pour ThinkPad T470</h3>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Compatibilité-BigSur%20%7C%20Ventura-yellow.svg?style=flat" />
+</p>
+  <p align="center">
+    <a target="__blank" href="https://developer.apple.com/documentation/macos-release-notes">
+  <img src="https://img.shields.io/badge/MacOS-13.1-orange.svg?style=flat" />
+    </a>
+    <a target="__blank" href="https://github.com/acidanthera/OpenCorePkg">
+      <img src="https://img.shields.io/badge/OpenCore-0.8.5-darkblue.svg?style=flat">
+    </a>
+    <a target="__blank" href="https://pcsupport.lenovo.com/fr/fr/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t470">
+      <img src="https://img.shields.io/badge/Model-20HE-darkcyan?style=flat">
+    </a>
+    <a target="__blank" href="https://travis-ci.org/IceEnd/Yosoro">
+      <img src="https://img.shields.io/badge/BIOS-1.72-goldenrod?style=flat">
+    </a>
+  </p>
+
 **MacOS versions**
 - Mojave 
 - Catalina
