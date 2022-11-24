@@ -12,7 +12,7 @@
 <h3 align="center" style="font-style:italic; color: grey">OpenCore EFI pour ThinkPad T470</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Compatibilité-BigSur%20%7C%20Ventura-yellow.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Compatibility-BigSur%20%7C%20Ventura-yellow.svg?style=flat" />
 </p>
   <p align="center">
     <a target="__blank" href="https://developer.apple.com/documentation/macos-release-notes">
