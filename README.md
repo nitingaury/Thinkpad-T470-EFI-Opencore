@@ -5,6 +5,7 @@
 <h3 align="center" style="font-style:italic; color: grey">OpenCore EFI for ThinkPad T470</h3>
 <br>
 <p align="center">
+<a target="__blank" href="https://www.apple.com/in/macos/ventura/">
   <img src="https://img.shields.io/badge/Compatibility-macOS%20%7C%20Ventura-yellow.svg?style=flat" />
 </p>
   <p align="center">
