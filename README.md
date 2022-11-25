@@ -1,4 +1,4 @@
-# The Thinkpad T470 20HE makes a stable Hackintosh machine! 
+# Thinkpad T470 20HE is one of the highly stable Hackintosh machines! 
 
 ![lenovo T470 github](https://user-images.githubusercontent.com/69560584/189785204-1f684515-7708-4a69-ae59-a0161249cce4.png)
 
