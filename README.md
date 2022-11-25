@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Model-20HE-darkcyan?style=flat">
     </a>
     <a target="__blank" href="https://travis-ci.org/IceEnd/Yosoro">
-      <img src="https://img.shields.io/badge/BIOS-1.72-goldenrod?style=flat">
+      <img src="https://img.shields.io/badge/BIOS-1.72-red?style=flat">
     </a>
   </p>
 
