@@ -92,7 +92,7 @@ FFFFFFFF = 4096MB
 ![Screenshot 2022-11-20 at 4 55 01 PM](https://user-images.githubusercontent.com/69560584/202903425-7d8368f6-41a6-46c2-9930-2c26ad044bcb.png)
 
 - T470 is powerful and efficent but very hungry machine and makes noise too.. so its important to calm down him so he can be cool enough.. which is where we need to undervolt the machine. Undervolting is safe than overclocking just that if you undervolt too much and your machine hangs up so know the limits and know where to hold him live!
-- Command+Space -> Terminal
+- Go to recovery and open terminal, now follow the below instructions..
 - type now : 
 ```
 sudo csrutil enable --without kext
