@@ -17,7 +17,7 @@
     <a target="__blank" href="https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t470">
       <img src="https://img.shields.io/badge/Model-20HE-darkcyan?style=flat">
     </a>
-    <a target="__blank" href="https://travis-ci.org/IceEnd/Yosoro">
+    <a target="__blank" href="https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t470">
       <img src="https://img.shields.io/badge/BIOS-1.72-red?style=flat">
     </a>
   </p>
