@@ -28,6 +28,15 @@
 **Disclaimer**
 - Hackintoshing may be dangerous and can damage your device and I am not responsible for bricked devices, dead devices, thermonuclear war, or you getting fired because your system failed. Please do some research if you have any concerns about hackintoshing before you proceed. YOU are choosing to make these changes to your system, and if you point the finger at me for messing up your device, I will laugh at you.
 
+![Screenshot 2023-10-09 at 12 38 18 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/6b95e32b-5913-4756-adc9-97ceb68d4c70.png)
+![Screenshot 2023-10-09 at 12 38 04 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/598bccef-68b3-45f2-b70a-329b79a2afed.png)
+![Screenshot 2023-10-09 at 12 37 41 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/c6c0c211-1bf5-46c3-b8c4-6085da821e06.png)
+![Screenshot 2023-10-09 at 12 37 32 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/f5e9f8a1-c050-49c2-940a-3ab448bbfbf5.png)
+![Screenshot 2023-10-09 at 12 37 22 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/4816214b-77ac-4e6d-a439-2193795a13fa.png)
+![Screenshot 2023-10-09 at 12 37 06 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/b2adf693-048b-415e-b842-f16cabddbb14.png)
+![Screenshot 2023-10-09 at 12 36 53 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/f753b61a-c1d5-44bd-b046-c61533986cfc.png)
+
+
 **MacOS versions**
 - Mojave 
 - Catalina
