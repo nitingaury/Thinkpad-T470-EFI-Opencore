@@ -45,6 +45,9 @@
 - Ventura
 - Sonoma
 
+![Consider Donating if you like!](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/f15cd3e4-8a76-426f-b99a-931ea26920ec.png)
+
+
 **What's working?**
 
 - CPU Undervolting
