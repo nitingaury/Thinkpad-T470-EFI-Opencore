@@ -6,14 +6,14 @@
 <br>
 <p align="center">
 <a target="__blank" href="https://www.apple.com/in/macos/ventura/">
-  <img src="https://img.shields.io/badge/Compatibility-macOS%20%7C%20Ventura-yellow.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Compatibility-macOS%20%7C%20Sonoma-yellow.svg?style=flat" />
 </p>
   <p align="center">
     <a target="__blank" href="https://developer.apple.com/documentation/macos-release-notes">
-  <img src="https://img.shields.io/badge/MacOS-13.1-orange.svg?style=flat" />
+  <img src="https://img.shields.io/badge/MacOS-14.X-orange.svg?style=flat" />
     </a>
     <a target="__blank" href="https://github.com/acidanthera/OpenCorePkg">
-      <img src="https://img.shields.io/badge/OpenCore-0.8.5-darkblue.svg?style=flat">
+      <img src="https://img.shields.io/badge/OpenCore-0.9.5-darkblue.svg?style=flat">
     </a>
     <a target="__blank" href="https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t470">
       <img src="https://img.shields.io/badge/Model-20HE-darkcyan?style=flat">
@@ -46,9 +46,9 @@
 - Touchscreen (VoodooI2C) - disabled it because it works like a f**king gaint touchpad!
 - Power management (CPU friend data)
 - Wifi (BCM94360NG) Working with 
-[AMFIPass.kext.zip](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/files/12847188/AMFIPass.kext.zip)
-[IOSkywalkFamily.kext.zip](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/files/12847187/IOSkywalkFamily.kext.zip)
-[IO80211FamilyLegacy.kext.zip](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/files/12847184/IO80211FamilyLegacy.kext.zip)
+/ [AMFIPass.kext.zip](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/files/12847188/AMFIPass.kext.zip)
+/ [IOSkywalkFamily.kext.zip](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/files/12847187/IOSkywalkFamily.kext.zip)
+/ [IO80211FamilyLegacy.kext.zip](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/files/12847184/IO80211FamilyLegacy.kext.zip)
 - Bluetooth (BCM94360NG)
 - USB C (only HDMI but no data transfer / Charging only)
 - HDMI (No issues)
