@@ -22,17 +22,8 @@
       <img src="https://img.shields.io/badge/BIOS-1.72-red?style=flat">
     </a>
   </p>
-![Screenshot 2023-10-09 at 12 38 18 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/021de366-9111-4ad7-8980-783e30759358)
-![Screenshot 2023-10-09 at 12 38 04 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/99e6f3e7-9b05-4844-a0b6-ef880aad3edf)
-![Screenshot 2023-10-09 at 12 37 41 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/b759d722-db30-4827-a01d-77432de026c4)
-![Screenshot 2023-10-09 at 12 37 32 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/5e808523-ef7f-4afc-8f23-81881df9b80f)
-![Screenshot 2023-10-09 at 12 37 22 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/8e8089ea-3a1c-4d76-bbd9-034bc638ab82)
-![Screenshot 2023-10-09 at 12 37 06 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/c4dbc024-c44a-4956-b6b4-4b560cb8ab99)
-![Screenshot 2023-10-09 at 12 36 53 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/fa829d03-313b-42eb-a6c6-49ef2c2c2feb)
-![Screenshot 2022-09-13 at 6 00 02 AM](https://user-images.githubusercontent.com/69560584/189782384-6f9df794-3fac-48b6-9e40-c135c030c8f5.png)
-![Screenshot 2022-09-13 at 5 55 21 AM](https://user-images.githubusercontent.com/69560584/189782400-99d6fef9-711e-41a6-a687-c9dc68210f5d.png)
-![Screenshot 2022-09-13 at 5 54 45 AM](https://user-images.githubusercontent.com/69560584/189782402-60d9235a-bb02-4887-8e1d-4b8764056cce.png)
-![Screenshot 2022-09-13 at 5 54 37 AM](https://user-images.githubusercontent.com/69560584/189782404-569861de-ad6c-4695-8f87-2b967549b6db.png)
+![Screenshot 2023-10-09 at 12 36 53 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/77d45a9d-7317-4213-893e-82f2408a6d7c)
+
 
 **Disclaimer**
 - Hackintoshing may be dangerous and can damage your device and I am not responsible for bricked devices, dead devices, thermonuclear war, or you getting fired because your system failed. Please do some research if you have any concerns about hackintoshing before you proceed. YOU are choosing to make these changes to your system, and if you point the finger at me for messing up your device, I will laugh at you.
