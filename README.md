@@ -1,6 +1,7 @@
 # Thinkpad T470 20HE is a highly stable Hackintosh machine! 
 
-![lenovo T470 github](https://user-images.githubusercontent.com/69560584/189785204-1f684515-7708-4a69-ae59-a0161249cce4.png)
+![apple-macOS-Sonoma_1-2](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/b1c918de-7248-4c35-bcae-e676ac249a38.png)
+
 
 <h3 align="center" style="font-style:italic; color: grey">OpenCore EFI for ThinkPad T470</h3>
 <br>
