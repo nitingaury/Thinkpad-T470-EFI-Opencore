@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/BIOS-1.72-red?style=flat">
     </a>
   </p>
-![Screenshot 2023-10-09 at 12 36 53 AM](https://github.com/nitingaury/Thinkpad-T470-EFI-Opencore/assets/69560584/77d45a9d-7317-4213-893e-82f2408a6d7c)
+
 
 
 **Disclaimer**
